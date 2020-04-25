@@ -1,0 +1,7 @@
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\bin\Debug\Exercicio Tratamento de excesoes.exe.config
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\bin\Debug\Exercicio Tratamento de excesoes.exe
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\bin\Debug\Exercicio Tratamento de excesoes.pdb
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\obj\Debug\Exercicio Tratamento de excesoes.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\obj\Debug\Exercicio Tratamento de excesoes.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\obj\Debug\Exercicio Tratamento de excesoes.exe
+C:\Users\Mike\source\repos\Exercicio Tratamento de excesoes\obj\Debug\Exercicio Tratamento de excesoes.pdb
